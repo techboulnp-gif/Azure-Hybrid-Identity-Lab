@@ -105,6 +105,20 @@ I validated the **Password Hash Synchronization (PHS)** by attempting a sign-on 
 * **Issue:** Local ADUC interface limited visual display to 2,000 objects, making verification difficult.
 * **Solution:** Used PowerShell and Entra ID portal metrics to verify the final count of **17,555**, ensuring no objects were dropped during the migration pipeline.
 
+
+## 🗺️ Project Roadmap & Portfolio Navigation
+
+### 🚩 Current Phase: Hybrid Cloud Integration (Complete)
+This project serves as the bridge between on-premises engineering and cloud identity management.
+
+* **Step 1: On-Premise Active Directory Home Lab (Project 1)** — Establishing the local DC and 17k users. ✅
+* **Step 2: Azure Hybrid Identity Lab (You are here)** — Synchronizing local AD with Entra ID via Entra Connect. ✅
+* **Step 3: Advanced Cloud Management (Planned)** — Implementing RBAC, Conditional Access, and Intune Device Management. 🔜
+
+### 🎓 Portfolio Navigation
+* [ ⬅️ Previous Project: Windows Server AD Foundation ](https://github.com/techboulnp-gif/Active-Directory-Lab)
+* [ ➡️ Next Project: RBAC & Cloud Governance (In Progress) ](#)
+
 ---
 
 ---
